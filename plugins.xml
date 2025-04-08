@@ -1,0 +1,12 @@
+<plugins>
+  <pyqgis_plugin name="PermitFiberAssociator" version="1.0.0">
+    <description>Associate permits with fiber segments using a PostgreSQL backend.</description>
+    <about>Built for internal use by OSIT.</about>
+    <qgis_minimum_version>3.16</qgis_minimum_version>
+    <download_url>https://drive.google.com/uc?export=download&id=1dQFynHxPItkPWbcZYgwQKyOG237ztUM1</download_url>
+    <file_name>PermitFiberAssociator.zip</file_name>
+    <author_name>Lukas Kucinski</author_name>
+    <homepage>https://drive.google.com/drive/u/1/folders/1J-M01sGhCwOlO-nnFxHiKAw3eU2qncbv</homepage>
+    <icon>icon.png</icon>
+  </pyqgis_plugin>
+</plugins>
